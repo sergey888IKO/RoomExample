@@ -1,0 +1,73 @@
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\bin\Debug\RoomExample.exe.config
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\bin\Debug\RoomExample.exe
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\bin\Debug\RoomExample.pdb
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\bin\Debug\RoomLibrary.dll
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\bin\Debug\RoomLibrary.pdb
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\App.g.cs
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.cache
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.lref
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.g.resources
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.Properties.Resources.resources
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CopyComplete
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.exe
+C:\Users\student\source\repos\PasswordChecker\LivingRoom\LivingRoom\RoomExample\RoomExample\RoomExample\obj\Debug\RoomExample.pdb
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\bin\Debug\RoomExample.exe.config
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\bin\Debug\RoomExample.exe
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\bin\Debug\RoomExample.pdb
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\bin\Debug\RoomLibrary.pdb
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\App.g.cs
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.cache
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.lref
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.g.resources
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.Properties.Resources.resources
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.GenerateResource.cache
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CopyComplete
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.exe
+C:\Users\student\Downloads\polinkas-main\RoomExample\RoomExample\obj\Debug\RoomExample.pdb
+C:\вижуал бурменский\RoomExample\RoomExample\bin\Debug\RoomExample.exe.config
+C:\вижуал бурменский\RoomExample\RoomExample\bin\Debug\RoomExample.exe
+C:\вижуал бурменский\RoomExample\RoomExample\bin\Debug\RoomExample.pdb
+C:\вижуал бурменский\RoomExample\RoomExample\bin\Debug\RoomLibrary.pdb
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.AssemblyReference.cache
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.SuggestedBindingRedirects.cache
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\MainWindow.g.cs
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\App.g.cs
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.cache
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.lref
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\MainWindow.baml
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.g.resources
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.Properties.Resources.resources
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.GenerateResource.cache
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CoreCompileInputs.cache
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CopyComplete
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.exe
+C:\вижуал бурменский\RoomExample\RoomExample\obj\Debug\RoomExample.pdb
+C:\sergey888IKO\RoomExample\RoomExample\bin\Debug\RoomExample.exe.config
+C:\sergey888IKO\RoomExample\RoomExample\bin\Debug\RoomExample.exe
+C:\sergey888IKO\RoomExample\RoomExample\bin\Debug\RoomExample.pdb
+C:\sergey888IKO\RoomExample\RoomExample\bin\Debug\RoomLibrary.pdb
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.AssemblyReference.cache
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.SuggestedBindingRedirects.cache
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\MainWindow.g.cs
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\App.g.cs
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.cache
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample_MarkupCompile.lref
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\MainWindow.baml
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.g.resources
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.Properties.Resources.resources
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.GenerateResource.cache
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CoreCompileInputs.cache
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.csproj.CopyComplete
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.exe
+C:\sergey888IKO\RoomExample\RoomExample\obj\Debug\RoomExample.pdb
